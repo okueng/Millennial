@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "lol"
 author: "Olivier Küng"
 categories: documentation
 tags: [documentation,sample]
