@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
+author: "Olivier Küng"
 categories: documentation
 tags: [documentation,sample]
 image: city-2.jpg
