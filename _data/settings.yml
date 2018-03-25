@@ -10,6 +10,7 @@ menu:
 #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 - {name: 'Agility & Startup', folder: 'pages', file: 'agility.html'}
 - {name: 'Maker', folder: 'pages', file: 'maker.html'}
+- {name: 'Books', folder: 'pages', file: 'books.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 #- {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
