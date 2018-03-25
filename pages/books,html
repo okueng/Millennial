@@ -1,0 +1,51 @@
+---
+layout: misc
+title: Books
+---
+
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1522005603">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+            <h2>
+      <a style="text-decoration: none;" rel="nofollow" href="https://www.goodreads.com/review/list/53604980-olivier-kueng?shelf=read&utm_medium=api&utm_source=grid_widget">OLIVIER KUENG's books</a>
+    </h2>
+  <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="An Excess Male" rel="nofollow" href="https://www.goodreads.com/book/show/34818733-an-excess-male"><img alt="An Excess Male" border="0" src="https://images.gr-assets.com/books/1491587469s/34818733.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="All These Worlds (Bobiverse, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/35506021-all-these-worlds"><img alt="All These Worlds" border="0" src="https://images.gr-assets.com/books/1498271736s/35506021.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="We Are Legion (We Are Bob) (Bobiverse, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob"><img alt="We Are Legion (We Are Bob)" border="0" src="https://images.gr-assets.com/books/1474344826s/32109569.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Turn the Ship Around!: A True Story of Turning Followers into Leaders" rel="nofollow" href="https://www.goodreads.com/book/show/18162413-turn-the-ship-around"><img alt="Turn the Ship Around!: A True Story of Turning Followers into Leaders" border="0" src="https://images.gr-assets.com/books/1372985913s/18162413.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Raven Stratagem (The Machineries of Empire, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/34604353-raven-stratagem"><img alt="Raven Stratagem" border="0" src="https://images.gr-assets.com/books/1489615778s/34604353.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="What If?: Serious Scientific Answers to Absurd Hypothetical Questions" rel="nofollow" href="https://www.goodreads.com/book/show/21463939-what-if"><img alt="What If?: Serious Scientific Answers to Absurd Hypothetical Questions" border="0" src="https://images.gr-assets.com/books/1394861535s/21463939.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Fifty Quick Ideas to Improve Your User Stories" rel="nofollow" href="https://www.goodreads.com/book/show/21411450-fifty-quick-ideas-to-improve-your-user-stories"><img alt="Fifty Quick Ideas to Improve Your User Stories" border="0" src="https://images.gr-assets.com/books/1413246521s/21411450.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Stone Sky (The Broken Earth, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/34017126-the-stone-sky"><img alt="The Stone Sky" border="0" src="https://images.gr-assets.com/books/1494513048s/34017126.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Obelisk Gate (The Broken Earth, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/28147302-the-obelisk-gate"><img alt="The Obelisk Gate" border="0" src="https://images.gr-assets.com/books/1460946860s/28147302.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Fifth Season (The Broken Earth, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/19887474-the-fifth-season"><img alt="The Fifth Season" border="0" src="https://images.gr-assets.com/books/1387752383s/19887474.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Ninefox Gambit (The Machineries of Empire, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/29503206-ninefox-gambit"><img alt="Ninefox Gambit" border="0" src="https://images.gr-assets.com/books/1457926692s/29503206.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Delirium Brief (Laundry Files, #8)" rel="nofollow" href="https://www.goodreads.com/book/show/32063117-the-delirium-brief"><img alt="The Delirium Brief" border="0" src="https://images.gr-assets.com/books/1478673286s/32063117.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Rise and Fall of D.O.D.O." rel="nofollow" href="https://www.goodreads.com/book/show/32075463-the-rise-and-fall-of-d-o-d-o"><img alt="The Rise and Fall of D.O.D.O." border="0" src="https://images.gr-assets.com/books/1484599609s/32075463.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Walkaway" rel="nofollow" href="https://www.goodreads.com/book/show/30299451-walkaway"><img alt="Walkaway" border="0" src="https://images.gr-assets.com/books/1491229137s/30299451.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Nightmare Stacks (Laundry Files, #7)" rel="nofollow" href="https://www.goodreads.com/book/show/27748314-the-nightmare-stacks"><img alt="The Nightmare Stacks" border="0" src="https://images.gr-assets.com/books/1457549801s/27748314.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Consider Phlebas (Culture, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/8935689-consider-phlebas"><img alt="Consider Phlebas" border="0" src="https://images.gr-assets.com/books/1327951890s/8935689.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="The Ultimate Hitchhiker's Guide to the Galaxy" rel="nofollow" href="https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy"><img alt="The Ultimate Hitchhiker's Guide to the Galaxy" border="0" src="https://images.gr-assets.com/books/1404613595s/13.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Ready Player One (Ready Player One, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/9969571-ready-player-one"><img alt="Ready Player One" border="0" src="https://images.gr-assets.com/books/1500930947s/9969571.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Children of Time" rel="nofollow" href="https://www.goodreads.com/book/show/25499718-children-of-time"><img alt="Children of Time" border="0" src="https://images.gr-assets.com/books/1431014197s/25499718.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Halting State (Halting State, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/5978409-halting-state"><img alt="Halting State" border="0" src="https://images.gr-assets.com/books/1328308892s/5978409.jpg" /></a></div>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/53604980-olivier-kueng">OLIVIER KUENG's favorite books »</a>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with OLIVIER KUENG, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/53604980?cover_size=&hide_link=&hide_title=&num_books=20&order=&shelf=&sort=&widget_id=1522005603" type="text/javascript" charset="utf-8"></script>
