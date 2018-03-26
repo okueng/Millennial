@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clock project"
+title: "Clock Project"
 author: "Olivier Küng"
 categories: maker
 tags: [maker,clockclock]
