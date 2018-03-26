@@ -7,6 +7,6 @@ tags: [agility,conference]
 image: ba.jpg
 ---
 
-# Business Agility Conference 2018
+# Business Agility Conference NY 2018
 
 
