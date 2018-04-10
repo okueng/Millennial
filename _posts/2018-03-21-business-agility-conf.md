@@ -47,17 +47,17 @@ The amazing tale of Buurtzorg, a dutch company that removed wasteful management 
 When talking with Ard, I could get a further key insights: they didn’t come to the self-organizing model from the the start, but by experimentation. One of the key driver to success was also a razor sharp focus on solving a single problem and not trying to jump on every opportunities. He had a very good point: backoffice will always justify themselves, yet do not deliver value and increase complexity. To remove it, he had a concept of a Minimal Viable Back Office. A note for managers: don’t manage: serve, guide and cut complexit. Finally, it was interesting to get his opinion that he would be sure if it would have worked if it wasn’t a non-profit company.
 
 
-## Mission, vision, values by 
+## Mission, vision, values
 A story that helps aligning on the true goal of the organization. Should fit in a hand: one vision and 5 core strategic pillars. Should be embedded in every aspect of the company: admin documents, hiring questions, evaluations, … It is the leader’s responsibility that everyone in the org knows it and lives through it.
 
 ## Interview Games
 If you do a lot of “games” in your everyday work, why not embed them into your interview practices? Games offer a space for improved interaction and engagement. They try to stimulate collaborative work, enable transparency and encourage feedback.
 
-##Sky betting
+## Sky betting
 How the practices of a software team changed the way HR is working. Embedding HR people (“People ops”) inside of the tribes, and following agile methodologies (scrum, short iterations, transparency). One of the most effective action they took was to decouple financial reward from performance management. In addition they removed objective setting, fixed semi-annual bonus payment, shared success stories, provided ,ore autonomy on learning&dev, and established retrospectives.
 I love it when HR is not only there to defend the legal side but also tries to improve (or at least not to hinder) work in the company.
 
-##The secret Sauce (Marsha Z Shenk)
+## The secret Sauce (Marsha Z Shenk)
 A culture of trust is the most important. The formula of trust is:
 Trust = (Credibility + Reliability + Vulnerability) / self orientation(confidence)
 Signs of vulnerability : I was wrong, I don’t know, I’m sorry, That idea is better than mine
